@@ -60,7 +60,7 @@ li {
   z-index: 1;
   position: relative;
   top: 200px;
-  padding-left: 300px;
+  padding-left: 20%;
   text-align: left;
   line-height: 40px;
 }
