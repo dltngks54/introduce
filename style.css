@@ -63,6 +63,7 @@ li {
   padding-left: 20%;
   text-align: left;
   line-height: 40px;
+  white-space: nowrap;
 }
 
 #Contact {
